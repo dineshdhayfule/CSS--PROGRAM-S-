@@ -1,0 +1,17 @@
+<html>
+<head>
+<title> Program</title>
+<script language= "Javascript" type="text/javascript">
+document.write("Welcome to Operators");
+var x=10 y=5;
+document.write("Mult= "+(x*y));
+document.write("<br>");
+document.write("Div= "+(x/y));
+document.write("<br>");
+document.write("Mod = "+(x%y));
+document.write("<br>");
+</script>
+</head>
+<body>
+</body>
+</html>

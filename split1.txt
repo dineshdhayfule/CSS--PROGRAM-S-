@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>split</title>
+<script language= "Javascript" type="text/javascript">
+        var x="Govt. Polytechnic,Solpaur";
+  document.write("split = "+x.split( ));
+  </script>
+</head>
+<body>
+</body>
+</html>

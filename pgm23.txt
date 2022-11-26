@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>IF Else Stmt</title>
+<script language= "Javascript" type="text/javascript">
+var i;
+  i=2;
+  if(i>=4)
+   {
+   document.write("Welcome to javascript");
+     }
+   else
+    {
+     document.write("i=  "+i);
+     }
+    </script>
+</head>
+<body>
+</body>
+</html>

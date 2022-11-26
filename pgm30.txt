@@ -1,0 +1,15 @@
+<html>
+<head>
+<title> Do While Stmt</title>
+<script language= "Javascript" type="text/javascript">
+   var i=1;       
+ while(i<=5) 
+   {
+    document.write("i= "+i);
+    }     
+
+</script>
+</head>
+<body>
+</body>
+</html>

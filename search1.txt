@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>search</title>
+<script language= "Javascript" type="text/javascript">
+        var x="Govt. Polytechnic,Solpaur";
+  document.write("search = "+x.search("pol"));
+  </script>
+</head>
+<body>
+</body>
+</html>

@@ -1,0 +1,22 @@
+<html>
+<head>
+Reading Cookie 
+</head>
+<title>Reading Cookie </title>
+<script type="text/javascript">
+function ReadCookie()
+{
+with(document.form1)
+{
+value=document.cookie.split(';');
+document.write("<br/>value: " +value);
+}
+}
+</script>
+<body>
+<form name="form1">
+Enter Name:<input type="text" name="uname"/>
+<input type="button" value="ReadCookie" onclick="ReadCookie()"/>
+</form>
+</body>
+</html>

@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>switch case</title>
+<script language= "Javascript" type="text/javascript">
+   var i=3;
+            switch(i)
+             {
+               case 0:
+                     document.write("i=  "+i);
+                     break;
+               case 1:
+                    document.write("i= "+i);
+                    break;
+             case 2:
+                document.write("i= "+i);           
+                 break;
+             default:
+            document.write("Welcome to Javascript");
+                   }
+ </script>
+</head>
+<body>
+</body>
+</html>

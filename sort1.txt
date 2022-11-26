@@ -1,0 +1,21 @@
+<html>
+<head>
+<title> Sort</title>
+<script language= "Javascript" type="text/javascript">
+var a=new Array();
+a[0]=4;
+a[1]=3;
+a[2]=1;
+a[3]=2;
+a.sort();
+document.write("Elements after array sort:"+"<br>");
+for(var i=0;i<a.length;i++)
+{
+document.write(a[i]);
+}                     
+
+</script>
+</head>
+<body>
+</body>
+</html>

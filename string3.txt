@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>charAT</title>
+<script language= "Javascript" type="text/javascript">
+        var x1="Govt";
+         var y1="Solapur";
+    document.write("Concat" +(x1+y1));
+ </script>
+</head>
+<body>
+</body>
+</html>

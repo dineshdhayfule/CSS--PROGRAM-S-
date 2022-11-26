@@ -1,0 +1,17 @@
+<html>
+<head>
+<title> splice(start,delete,elemnts)</title>
+<script language= "Javascript" type="text/javascript">
+document.write("Welcome to splice method");
+var a=new Array();
+a[0]="C";
+a[1]="C++";
+a[2]="Java";
+document.write("ORiginal lebn of array a:"+a.length+"<br>");
+a.splice(2);
+document.write("New array len:"+a.length+"<br>");
+</script>
+</head>
+<body>
+</body>
+</html>

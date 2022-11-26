@@ -1,0 +1,17 @@
+<html>
+<head>
+<title> Logical Operators</title>
+<script language= "Javascript" type="text/javascript">
+document.write("Welcome to  Logical Operators");
+var x=10 ,y=50;
+document.write("<br>");
+document.write("AND= "+(y>x)&&(x<y));
+document.write("<br>");
+document.write("OR= "+(x<y)||(x!=y));
+document.write("<br>");
+document.write("Not equal to "+ (y!=x));
+ </script>
+</head>
+<body>
+</body>
+</html>

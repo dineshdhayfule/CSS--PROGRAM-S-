@@ -1,0 +1,26 @@
+<html>
+<head>
+<title> OPerators</title>
+<script language= "Javascript" type="text/javascript">
+document.write("Welcome to  Comparasion Operators");
+var x=10 ,y=50,z="10";
+document.write("<br>");
+document.write("x==y "+(x==y));
+document.write("<br>");
+document.write("X===z"+(x===z));
+document.write("<br>");
+document.write("x!=y"+(x!=y));
+document.write("<br>");
+document.write("<br>");
+document.write("y>z"+(y>z));
+document.write("<br>");
+document.write("y<z"+(y<z));
+document.write("<br>");
+document.write("y<=z"+(y<=z));
+document.write("<br>");
+document.write("y>=x"+(y>=x));
+</script>
+</head>
+<body>
+</body>
+</html>

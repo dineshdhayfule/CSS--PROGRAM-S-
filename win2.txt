@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>Multiple window</title>
+<script language= "Javascript" type="text/javascript">
+function openwin()
+{
+window.open("","","width=300,height=300");
+window.open("","","width=500,height=300");
+window.open("","","width=700,height=300");
+}
+</script>
+</head>
+<body>
+<p>open multiple windows</p>
+<input type="button"  value="MULTIPLE WINDOW " onclick="openwin()" value="openwin">
+</body>
+</html>

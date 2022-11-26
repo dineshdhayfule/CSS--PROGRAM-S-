@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>Loop</title>
+<script language= "Javascript" type="text/javascript">
+    var i;
+    for(i=0;i<=5;i++)
+      { 
+      document.write("i=  "+i+"<br>");
+        }      
+      </script>
+</head>
+<body>
+</body>
+</html>

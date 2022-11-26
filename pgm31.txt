@@ -1,0 +1,16 @@
+<html>
+<head>
+<title> Do While Stmt</title>
+<script language= "Javascript" type="text/javascript">
+   var car={
+color:"Red",wheller:2,rate:10000
+};
+                      
+document.write(car.color +"<br>");
+document.write(car.wheller+"<br>");
+document.write(car.rate+"<br>");
+</script>
+</head>
+<body>
+</body>
+</html>
