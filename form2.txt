@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>charAT</title>
+<script language= "Javascript" type="text/javascript">
+function clean()
+{
+alert("Recycle bin is clear");
+}
+</script>
+</head>
+<body>
+<form onrest="clean()">
+Enter Title  of CSS Microproject:<input type="text" value="enter pass"><br>
+<input type="reset" value="RESET"><br>
+</form>
+</body>
+</html>

@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>onclick</title>
+<script language= "Javascript" type="text/javascript">
+     function valid()
+   {
+    alert("Welcome to Click me");
+   }
+ </script>
+</head>
+<body>
+<form>
+<input type="button" name="clickme" value="CLICK ME" onclick="valid()">
+</form>
+
+</body>
+</html>

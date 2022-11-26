@@ -1,0 +1,18 @@
+<html>
+<head>
+<title>innerHTML</title>
+<script language= "Javascript" type="text/javascript">
+function changeText()
+{
+document.getElementByID('inner1').innerHTML="Welcome to GP";
+}
+</script>
+</head>
+<body>
+
+<h4 id="inner1">INNER HTML </h4>
+<form fmane="FORM INNER HTML" action="" method="post">
+<input type="button" onclick="changeText()" value="CHANGE TEXT">
+</form>
+</body>
+</html>

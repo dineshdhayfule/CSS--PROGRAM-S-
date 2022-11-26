@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>ON KEY DOWN</title>
+<script language= "Javascript" type="text/javascript">
+     function down()
+   {
+    alert("Welcome to key events ON KEY DOWN");
+   }
+ </script>
+</head>
+<body>
+<form name="fname" >
+<input type="text" name="down1" value="ON KEY DOWN" onkeydown="down()">
+</form>
+</body>
+</html>

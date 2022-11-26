@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>toLowerCase</title>
+<script language= "Javascript" type="text/javascript">
+  var y="Government Polytechnic Solapur" ;
+document.write("toUppperCase: "+y.toLowerCase()); 
+
+    string.toLowerCase()
+ </script>
+</head>
+<body>
+</body>
+</html>

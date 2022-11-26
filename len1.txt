@@ -1,0 +1,13 @@
+<html>
+<head>
+<title> Array</title>
+<script language= "Javascript" type="text/javascript">
+              var c=new Array(5);
+   c=[11,22,33,44,55];
+      document.write("LEn "+c.length);           
+            
+</script>
+</head>
+<body>
+</body>
+</html>

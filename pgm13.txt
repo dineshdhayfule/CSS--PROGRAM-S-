@@ -1,0 +1,17 @@
+<html>
+<head>
+<title> Ternary Operators</title>
+<script language= "Javascript" type="text/javascript">
+document.write("Welcome to  Ternary Operators");
+  var a=10,b=20,c;
+c=a<b?a:b;
+document.write("a= "+a);
+document.write("<br>");
+document.write("b= "+b);
+document.write("<br>");
+document.write(c);             
+ </script>
+</head>
+<body>
+</body>
+</html>

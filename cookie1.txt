@@ -1,0 +1,18 @@
+<html>
+<head>
+<title> alert</title>
+<script language= "Javascript" type="text/javascript">
+function Enrollcookie()
+{
+  var cookie_val=enrollno.value
+  document.cookie="enrollno= "+cookie_val;
+   alert("Cookie Created:");
+}
+ </script>
+</head>
+<body>
+Enter Enrollement  No:<input type="text" id="enrollno">
+<input type="button" value="CREATE COOKIE" onclick="Enrollcookie()">
+
+</body>
+</html>

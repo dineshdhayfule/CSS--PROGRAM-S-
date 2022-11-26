@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>IndexOF</title>
+<script language= "Javascript" type="text/javascript">
+        var x="Govt. Polytechnic,Solpaur";
+  document.write("position = "+x.indexOf("o",2));
+
+
+     indexOf(substr,[start]);
+
+ </script>
+</head>
+<body>
+</body>
+</html>

@@ -1,0 +1,12 @@
+<html>
+<head>
+<title> Array</title>
+<script language= "Javascript" type="text/javascript">
+              var z=new Array("C","C++","Java");
+    document.write("Len :"+z.length);
+      
+  </script>
+</head>
+<body>
+</body>
+</html>

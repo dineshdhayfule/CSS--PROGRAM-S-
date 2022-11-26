@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>LastIndexOF</title>
+<script language= "Javascript" type="text/javascript">
+        var x="Govt. Polytechnic,Solpaur";
+  document.write("position = "+x.lastIndexOf("o",2));
+  </script>
+</head>
+<body>
+</body>
+</html>

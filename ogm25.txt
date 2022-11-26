@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>IF Else Stmt</title>
+<script language= "Javascript" type="text/javascript">
+       if(condition)
+     {   
+     stmt1;
+       if(condition2)
+        {
+         stmt2;
+         }
+        else
+        {
+       stmt3;
+         }
+</script>
+</head>
+<body>
+</body>
+</html>

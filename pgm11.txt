@@ -1,0 +1,21 @@
+<html>
+<head>
+<title> Assingment  Operators</title>
+<script language= "Javascript" type="text/javascript">
+document.write("Welcome to  Logical Operators");
+var a=100,b=200;
+document.write("<br>");  
+document.write("Sum up "+(a+=b));
+document.write("<br>");  
+document.write("Substract "+(a-=b));
+document.write("<br>");  
+document.write("Multiply  "+(a*=b));
+document.write("<br>");  
+document.write("Divide / "+(a/=b));
+document.write("<br>");  
+document.write("Modulus %  "+(a%=b));
+ </script>
+</head>
+<body>
+</body>
+</html>

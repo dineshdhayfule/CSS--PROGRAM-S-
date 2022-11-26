@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>oncontextmenu</title>
+<script language= "Javascript" type="text/javascript">
+     function menu()
+   {
+    alert("Welcome to oncontextmen");
+   }
+ </script>
+</head>
+<body>
+<form>
+<input type="button" name="oncontext1" value="ON CONTEXT MENU" oncontextmenu="menu()">
+</form>
+
+</body>
+</html>

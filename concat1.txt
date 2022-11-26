@@ -1,0 +1,15 @@
+<html>
+<head>
+<title> concat</title>
+<script language= "Javascript" type="text/javascript">
+var a=new Array();
+a[0]="Government";
+a[1]="Polytechnic";
+a[2]="Solapur";
+  var r=a.concat("pincode-413006");
+document.write("<br>"+ " After join= "+r);
+</script>
+</head>
+<body>
+</body>
+</html>

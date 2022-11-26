@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>charAT</title>
+<script language= "Javascript" type="text/javascript">
+</script>
+</head>
+<body>
+<form fname="FORM IF">
+<input type="submit"  value="SUBMIT"><br>
+<input type="reset"  value="RESET"><br>
+<input type="click"  value="CLICK"><br>
+</form>
+</body>
+</html>

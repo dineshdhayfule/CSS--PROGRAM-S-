@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>ON MOUSE Out</title>
+<script language= "Javascript" type="text/javascript">
+     function out()
+   {
+    alert("Welcome to IEDSSA W1 Cricket OUT");
+   }
+ </script>
+</head>
+<body>
+<form name="fname" >
+<input type="button" name="MOUSE1" value="ON MOUSE OUT" onmouseout="out()">
+</form>
+
+</body>
+</html>

@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>charAT</title>
+<script language= "Javascript" type="text/javascript">
+</script>
+</head>
+<body>
+<form fmane="FORM IF">
+
+</form>
+</body>
+</html>

@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>Double click</title>
+<script language= "Javascript" type="text/javascript">
+     function dblvalid()
+   {
+    alert("Welcome to Double Click ");
+   }
+ </script>
+</head>
+<body>
+<form>
+<input type="button" name="dblclick" value="DOUBLE CLICK"  ondblclick="dblvalid()">
+</form>
+
+</body>
+</html>

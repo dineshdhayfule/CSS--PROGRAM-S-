@@ -1,0 +1,11 @@
+<html>
+<head>
+<title> Array</title>
+<script language= "Javascript" type="text/javascript">
+  var b=[11,22,33];
+  document.write("Len: "+b.length);
+</script>
+</head>
+<body>
+</body>
+</html>

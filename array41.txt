@@ -1,0 +1,14 @@
+<html>
+<head>
+<title> Associative Array(start,delete,elemnts)</title>
+<script language= "Javascript" type="text/javascript">
+document.write("Welcome to Associative Array" +"<br>");
+var a={"name":"John","Age":28,"Course":"IF"};
+document.write("Name: "+a["name"]+"<br>");
+document.write("Age: "+a["Age"]+"<br>");
+document.write("Course: "+a["Course"]+"<br>");
+</script>
+</head>
+<body>
+</body>
+</html>

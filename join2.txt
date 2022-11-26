@@ -1,0 +1,15 @@
+<html>
+<head>
+<title> Join</title>
+<script language= "Javascript" type="text/javascript">
+var a=new Array();
+a[0]="Government";
+a[1]="Polytechnic";
+a[2]="Solapur";
+var j=a.join("/");
+document.write("After Join"+j);
+</script>
+</head>
+<body>
+</body>
+</html>

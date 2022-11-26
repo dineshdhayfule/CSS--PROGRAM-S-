@@ -1,0 +1,22 @@
+<html>
+<head>
+<title> Bitwise Operators</title>
+<script language= "Javascript" type="text/javascript">
+   document.write("AND= "+(x=5&1));
+   document.write("<br>");
+   document.write("OR= "+(x=5|1));
+   document.write("<br>");
+   document.write("NOT= "+(x=~7));
+   document.write("<br>");
+   document.write("XOR= "+(x=5^1));
+   document.write("<br>");
+   document.write("Left Shift= "+(x=5<<1));
+   document.write("<br>");
+   document.write("Right Shift= "+(x=5>>1));
+   document.write("<br>");
+      
+ </script>
+</head>
+<body>
+</body>
+</html>

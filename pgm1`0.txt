@@ -1,0 +1,13 @@
+<html>
+<head>
+<title> Logical Operators</title>
+<script language= "Javascript" type="text/javascript">
+document.write("Welcome to  Logical Operators");
+var x=10 ,y=50;
+document.write("<br>");
+document.write("Not equal to "+ !(y=x));
+ </script>
+</head>
+<body>
+</body>
+</html>
